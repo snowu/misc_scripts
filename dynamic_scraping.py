@@ -66,5 +66,5 @@ async def main(url_file):
         await browser.close()
 
 if __name__ == "__main__":
-    url_file = "C:\\Users\\zanca\\Documents\\dropshipping_products.txt"
+    url_file = ""
     asyncio.run(main(url_file))
