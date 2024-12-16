@@ -11,5 +11,5 @@ def open_urls_from_file(file_path):
             webbrowser.open(url)
             time.sleep(0.5)  
 
-file_path = "C:\\Users\\zanca\\Documents\\dropshipping.txt"
+file_path = ""
 open_urls_from_file(file_path)
